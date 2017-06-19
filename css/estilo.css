@@ -1,6 +1,7 @@
 body{
   margin: 0 auto;
   font-family: 'Exo 2', sans-serif;
+  font-size: 14px;
 }
 
 .nav{
@@ -49,6 +50,7 @@ body{
   text-align: center;
 }
 
-p.frase:before, p.frase:after {
-    content: '"';
+.bg2{
+  background-color: #2b59e2;
+  color: #000000;
 }
